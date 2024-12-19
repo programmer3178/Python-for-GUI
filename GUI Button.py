@@ -20,4 +20,5 @@ count_label = Label(window, text=count, font=('Monospace', 50, 'bold'))
 count_label.config(bg='white')
 count_label.pack()
 button.pack()
+
 window.mainloop()
